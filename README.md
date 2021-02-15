@@ -22,6 +22,6 @@ The software was tested on Ubuntu 18.04 LTS and Python version >=3.7.x.
 ## Acknowledgmnets
 
 If you found the software useful please cite:
-* Marek Wodzinski, Izabla Ciepiela, Piotr Kedzierawski, Tomasz Kuszewski, Andrzej Skalski, *Semi-Supervised Deep Learning-based Image Registration Method with Volume Penalty for Real-time Breast Tumor Bed Localization*. (In Review)
+* Marek Wodzinski, Izabela Ciepiela, Piotr Kedzierawski, Tomasz Kuszewski, Andrzej Skalski, *Semi-Supervised Deep Learning-based Image Registration Method with Volume Penalty for Real-time Breast Tumor Bed Localization*. (In Review)
 
 
